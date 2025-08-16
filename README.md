@@ -8,7 +8,7 @@ A modern, production-ready template for building full-stack AI chat applications
 
 ### ✨ Live Demo
 
-![App Demo mp4](demo/chat-demo.mp4)
+![App Demo GIF](demo/chat-demo.gif)
 
 ---
 
