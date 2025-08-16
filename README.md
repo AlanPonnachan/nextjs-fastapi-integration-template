@@ -8,7 +8,6 @@ A modern, production-ready template for building full-stack AI chat applications
 
 ### ✨ Live Demo
 
-*You will replace this with your own GIF after recording it.*
 ![App Demo GIF](demo/chat-demo.gif)
 
 ---
