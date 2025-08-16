@@ -2,7 +2,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge)
 
-A modern, production-ready template for building full-stack AI chat applications. This repository provides a seamless integration between a Next.js frontend and a FastAPI backend, featuring real-time, token-by-token streaming responses from a LangChain-powered language model.
+A modern, production-ready starter template for building full-stack AI chat applications. This repository provides a seamless integration between a Next.js frontend and a FastAPI backend, featuring real-time, token-by-token streaming responses from a LangChain-powered language model.
 
 ---
 
